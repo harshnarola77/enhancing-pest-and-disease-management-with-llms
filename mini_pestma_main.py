@@ -1148,7 +1148,6 @@ def main():
     print("3. Review saved JSON analysis files")
     print("4. Run the Streamlit web interface")
     print("5. Review evaluation results for improvements")
-    print("\n🎓 Ready for thesis demonstration!")
 
 if __name__ == "__main__":
     main()
